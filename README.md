@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=react,angular,js,ts,tailwind,materialui&perline=6" alt="Frontend Skills" />
     <br/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,azure,git,postman&perline=7" alt="Backend & Tools" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,azure,git,postman&perline=7" alt="Backend & Tools" />
   </a>
 </p>
 
