@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+<img align="right" width="300" src="https://camo.githubusercontent.com/a8d3da3528ef9b39401e1d24c0965e543580bfdc682c7b5c46fcbd8c582be8e3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" alt="Coding GIF" />
 
 - 💼 Currently working as a **Software Engineer** at *Deevia Software India Pvt. Ltd.*
 - 🚀 Deeply passionate about building scalable web and mobile applications using modern JavaScript frameworks.
@@ -41,19 +41,9 @@
   </a>
 </p>
 
-*<div align="center">And actively building with <b>React Native, Power BI, Databricks, Logic Apps, and Synapse Analytics.</b></div>*
+*<div align="center">And actively building with <b>React Native, Power BI, Azure Data Factory, Logic Apps and Azure Functions.</b></div>*
 
 <br />
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManvendraSingh-1996&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Manvendra's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManvendraSingh-1996&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Manvendra's Streak" />
-</p>
-
 ---
 
 <div align="center">
